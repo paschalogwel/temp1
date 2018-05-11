@@ -19,11 +19,11 @@ TABLE OF CONTENTS
 	- Testimonials
 	- Accordions
 	- Tabs
-	- Progress Bars 
+	- Progress Bars
 	- Panels
 	- Social Icons
 	- Carousel
-	- Blog 
+	- Blog
 	- Pages
 
 */
@@ -612,7 +612,7 @@ h1.logo-text a {
 }
 #hornav > ul > li > a,
 #hornav > ul > li > span {
-  background-color: #473d4f;
+  background-color: #d4af37;
   color: #dcd7e0;
   display: block;
   font-size: 14px;
@@ -899,7 +899,7 @@ h1.logo-text a {
 .slicknav_menu {
   *zoom: 1;
 }
-/* 
+/*
     User Default Style
     Change the following styles to modify the appearance of the menu.
 */
@@ -1589,7 +1589,7 @@ i.fa.center {
 .tabs-dark .nav-tabs > li.active > a:hover,
 .tabs-dark .nav-tabs > li.active > a:focus {
   -moz-border-colors: none;
-  background-color: #3F3647 !important;
+  background-color: #d4af37 !important;
   border: none;
   color: #FFFFFF;
   cursor: default;
