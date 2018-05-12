@@ -2,7 +2,7 @@
 ================================================== */
 
 @media only screen and (max-width: 1024px) {
- 
+
 .content_background, #header {margin: 0 auto;}
 .primary-container-background .primary-container {width:100% !important;}
 
@@ -26,7 +26,7 @@
 
 /* #Tablet (Portrait)
 ================================================== */
-    
+
 @media only screen and (max-width: 959px) {
 
 
@@ -56,11 +56,15 @@
 ================================================== */
 
 @media only screen and (max-width: 440px) {
-
+  #home img{
+      width: 90%;
+  }
+  .nav-tabs > li {
+    width: 30%;
+  }
 /* Hide slogan */
 p.site-slogan {
     display: none;
 }
-	
+
 }
-	
